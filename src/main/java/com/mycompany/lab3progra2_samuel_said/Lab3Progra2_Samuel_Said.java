@@ -11,7 +11,7 @@ package com.mycompany.lab3progra2_samuel_said;
 public class Lab3Progra2_Samuel_Said {
 
     public static void main(String[] args) {
-        System.out.println("Hello World! Hola ");
-        
+        System.out.println("Hello World! Hola");
+        System.out.println("aasdadasd");
     }
 }
